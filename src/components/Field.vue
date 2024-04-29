@@ -1,8 +1,9 @@
 <script setup>
-import background from '../assets/field-soccer.jpg'
+import Teams from './Teams.vue';
 
 </script>
 <template>
-    <div class="w-full h-full min-h-screen bg-top bg-cover bg-soccer-rotate md:bg-soccer">
+    <div class="flex w-full min-h-screen bg-top bg-cover bg-soccer-rotate sm:bg-soccer">
+        <Teams />
     </div>
 </template>
