@@ -6,7 +6,12 @@ export default {
     "./src/**/*.{vue,js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'soccer': 'url("./assets/field-soccer.jpg")',
+        'soccer-rotate': 'url("./assets/field-rotate.png")',
+    },
+    },
   },
   plugins: [],
 }

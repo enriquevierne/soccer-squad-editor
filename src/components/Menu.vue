@@ -1,13 +1,24 @@
 <script setup>
-import { HomeIcon } from '@heroicons/vue/24/solid'
+import { HomeIcon, PresentationChartBarIcon, UserGroupIcon, UserIcon, WrenchScrewdriverIcon, } from '@heroicons/vue/24/outline'
 </script>
 <template>
-  <nav class="fixed bottom-0 w-full h-20 border-t-2 border-gray-800 md:top-0 md:border-0 md:shadow-lg ">
-    <div class="m-auto max-w-7xl">
-      <a href=""><HomeIcon class="w-5 dark:fill-gray-100 fill-gray-700" /></a>
-      <a href="">teams</a>
-      <a href="">players</a>
-      <ToggleTheme />
+  <nav class="fixed bottom-4">
+    <div class="flex gap-10 p-4 bg-white rounded-full shadow-lg backdrop-blur-sm bg-opacity-30 dark:bg-gray-950">
+      <a href="">
+        <PresentationChartBarIcon class="w-10 duration-300 ease-in-out hover:-translate-y-1 dark:stroke-gray-100 stroke-gray-950 hover:scale-110" />
+      </a>
+      <a href="">
+        <UserGroupIcon class="w-10 duration-300 ease-in-out hover:-translate-y-1 dark:stroke-gray-100 stroke-gray-950 hover:scale-110" />
+      </a>
+      <a href="">
+        <HomeIcon class="w-10 duration-300 ease-in-out hover:-translate-y-1 dark:stroke-gray-100 stroke-gray-950 hover:scale-110" />
+      </a>
+      <a href="">
+        <UserIcon class="w-10 duration-300 ease-in-out hover:-translate-y-1 dark:stroke-gray-100 stroke-gray-950 hover:scale-110" />
+      </a>
+      <a href="">
+        <WrenchScrewdriverIcon class="w-10 duration-300 ease-in-out hover:-translate-y-1 dark:stroke-gray-100 stroke-gray-950 hover:scale-110" />
+      </a>
     </div>
   </nav>
 </template>
