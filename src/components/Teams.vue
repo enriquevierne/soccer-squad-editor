@@ -43,6 +43,8 @@ const positionsList = [
         name: 'João Carlos'
     },
 ]
+const width = window.innerWidth
+const height = window.innerHeight
 </script>
 <template>
     <ul class="grid w-full h-full grid-cols-9 gap-2 grid-rows-9">
@@ -52,4 +54,6 @@ const positionsList = [
             <span class="text-sm">{{ pos.name }}</span>
         </li>
     </ul>
+    {{ width }}
+    {{ height }}
 </template>
