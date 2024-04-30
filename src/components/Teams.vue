@@ -56,49 +56,49 @@ const HomePositionsList = [
         class: 'col-span-3 col-start-4 row-start-1 md:col-span-1 md:col-start-1 md:row-start-5',
         color: 'bg-gradient-to-br from-gray-700 to-gray-900 border-gray-950',
         number: 1,
-        name: 'João Carlos'
+        name: 'Murilo'
     },
     {
         position: 'ZD',
         class: 'col-span-3 col-start-2 row-start-2 md:col-span-1 md:col-start-2 md:row-start-6',
         color: 'bg-gradient-to-br from-gray-700 to-gray-900 border-gray-950',
         number: 4,
-        name: 'João Carlos'
+        name: 'Ivan'
     },
     {
         position: 'ZE',
         class: 'col-span-3 col-start-6 row-start-2 md:col-span-1 md:col-start-2 md:row-start-3',
         color: 'bg-gradient-to-br from-gray-700 to-gray-900 border-gray-950',
         number: 3,
-        name: 'João Carlos'
+        name: 'Digão'
     },
     {
         position: 'VOL',
         class: 'col-span-3 col-start-4 row-start-3 md:col-span-1 md:col-start-3 md:row-start-5',
         color: 'bg-gradient-to-br from-gray-700 to-gray-900 border-gray-950',
         number: 5,
-        name: 'João Carlos'
+        name: 'Zinho'
     },
     {
         position: 'MD',
         class: 'col-span-3 col-start-1 row-start-4 md:col-span-1 md:col-start-4 md:row-start-8',
         color: 'bg-gradient-to-br from-gray-700 to-gray-900 border-gray-950',
         number: 10,
-        name: 'João Carlos'
+        name: 'Gustavinho'
     },
     {
         position: 'ME',
         class: 'col-span-3 col-start-7 row-start-4 md:col-span-1 md:col-start-4 md:row-start-1',
         color: 'bg-gradient-to-br from-gray-700 to-gray-900 border-gray-950',
         number: 11,
-        name: 'João Carlos'
+        name: 'Matheus'
     },
     {
         position: 'ATA',
         class: 'col-span-3 col-start-4 row-start-5 md:col-span-1 md:col-start-5 md:row-start-5',
         color: 'bg-gradient-to-br from-gray-700 to-gray-900 border-gray-950',
         number: 9,
-        name: 'João Carlos'
+        name: 'Enrique'
     },
 ]
 </script>
