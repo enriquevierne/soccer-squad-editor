@@ -59,39 +59,39 @@ const HomePositionsList = [
         name: 'Murilo'
     },
     {
-        position: 'ZD',
-        class: 'col-span-3 col-start-2 row-start-2 md:col-span-1 md:col-start-2 md:row-start-6',
+        position: 'ZC',
+        class: 'col-span-3 col-start-2 row-start-2 md:col-span-1 md:col-start-2 md:row-start-5',
         color: 'bg-gradient-to-br from-gray-700 to-gray-900 border-gray-950',
         number: 4,
         name: 'Ivan'
     },
     {
+        position: 'ZD',
+        class: 'col-span-3 col-start-7 row-start-4 md:col-span-1 md:col-start-3 md:row-start-2',
+        color: 'bg-gradient-to-br from-gray-700 to-gray-900 border-gray-950',
+        number: 11,
+        name: 'Matheus'
+    },
+    {
         position: 'ZE',
-        class: 'col-span-3 col-start-6 row-start-2 md:col-span-1 md:col-start-2 md:row-start-3',
+        class: 'col-span-3 col-start-6 row-start-2 md:col-span-1 md:col-start-3 md:row-start-7',
         color: 'bg-gradient-to-br from-gray-700 to-gray-900 border-gray-950',
         number: 3,
         name: 'Digão'
     },
     {
-        position: 'VOL',
-        class: 'col-span-3 col-start-4 row-start-3 md:col-span-1 md:col-start-3 md:row-start-5',
+        position: 'ME',
+        class: 'col-span-3 col-start-4 row-start-3 md:col-span-1 md:col-start-4 md:row-start-6',
         color: 'bg-gradient-to-br from-gray-700 to-gray-900 border-gray-950',
         number: 5,
         name: 'Zinho'
     },
     {
         position: 'MD',
-        class: 'col-span-3 col-start-1 row-start-4 md:col-span-1 md:col-start-4 md:row-start-8',
+        class: 'col-span-3 col-start-1 row-start-4 md:col-span-1 md:col-start-4 md:row-start-4',
         color: 'bg-gradient-to-br from-gray-700 to-gray-900 border-gray-950',
         number: 10,
         name: 'Gustavinho'
-    },
-    {
-        position: 'ME',
-        class: 'col-span-3 col-start-7 row-start-4 md:col-span-1 md:col-start-4 md:row-start-1',
-        color: 'bg-gradient-to-br from-gray-700 to-gray-900 border-gray-950',
-        number: 11,
-        name: 'Matheus'
     },
     {
         position: 'ATA',
