@@ -5,49 +5,49 @@ const AwayPositionsList = [
         class: 'col-span-3 col-start-4 row-start-10 md:col-span-1 md:col-start-10 md:row-start-5',
         number: 1,
         color: 'bg-gradient-to-br from-blue-700 to-blue-900 border-blue-950',
-        name: 'Maria Joaquina'
+        name: 'William'
     },
     {
         position: 'ZE',
         class: 'col-span-3 col-start-2 row-start-9 md:col-span-1 md:col-start-9 md:row-start-7',
         number: 4,
         color: 'bg-gradient-to-br from-blue-700 to-blue-900 border-blue-950',
-        name: 'Maria Joaquina'
+        name: 'Lucas'
     },
     {
         position: 'ZD',
         class: 'col-span-3 col-start-6 row-start-9 md:col-span-1 md:col-start-9 md:row-start-3',
         number: 3,
         color: 'bg-gradient-to-br from-blue-700 to-blue-900 border-blue-950',
-        name: 'Maria Joaquina'
+        name: 'Valdemar'
     },
     {
         position: 'VOL',
         class: 'col-span-3 col-start-4 row-start-8 md:col-span-1 md:col-start-8 md:row-start-5',
         number: 5,
         color: 'bg-gradient-to-br from-blue-700 to-blue-900 border-blue-950',
-        name: 'Maria Joaquina'
+        name: 'Eduardo'
     },
     {
         position: 'ME',
         class: 'col-span-3 col-start-1 row-start-7 md:col-span-1 md:col-start-7 md:row-start-2',
         number: 10,
         color: 'bg-gradient-to-br from-blue-700 to-blue-900 border-blue-950',
-        name: 'Maria Joaquina'
+        name: 'Macarrão'
     },
     {
         position: 'MD',
         class: 'col-span-3 col-start-7 row-start-7 md:col-span-1 md:col-start-7 md:row-start-8',
         number: 11,
         color: 'bg-gradient-to-br from-blue-700 to-blue-900 border-blue-950',
-        name: 'Maria Joaquina'
+        name: 'Maicão'
     },
     {
         position: 'ATA',
         class: 'col-span-3 col-start-4 row-start-6 md:col-span-1 md:col-start-6 md:row-start-5',
         number: 9,
         color: 'bg-gradient-to-br from-blue-700 to-blue-900 border-blue-950',
-        name: 'Maria Joaquina'
+        name: 'Jorge'
     },
 ]
 const HomePositionsList = [
